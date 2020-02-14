@@ -8,6 +8,7 @@ import App from './App';
 import MultiValue from './MultiValue';
 // import MultiValue from './MultiValue';
 
+//Change in below line, if you want to see MultiValue.js
 ReactDOM.render(<App />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change

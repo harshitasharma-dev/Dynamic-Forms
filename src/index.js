@@ -8,7 +8,7 @@ import App from './App';
 import MultiValue from './MultiValue';
 // import MultiValue from './MultiValue';
 
-ReactDOM.render(<MultiValue />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

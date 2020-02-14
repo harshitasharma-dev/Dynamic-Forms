@@ -7,6 +7,8 @@ In App.js, there is single input value in form including an alert in removing th
 
 In MultiValue.js, there are two input values in form using an array. You can check the output in Inspect Element after clicking on Submit button, you can display it on screen as well by using the same logic as App.js.
 
+You have to change in index.js file if you want to see another file from App.js to MultiValue.js
+
 Make sure you have Node installed in your system. If not, you can download from "https://nodejs.org/en/download/"
 
 CLONE this repository using below mentioned steps:
